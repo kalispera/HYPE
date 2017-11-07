@@ -1,8 +1,17 @@
 # shadow
-Shadow is a agile process framework for single persons or small teams in remote
+Shadow is a agile process framework small remote teams
 
 
 ## Who is shadow for?
 
-The first purpose of Shadow is to help single Persons working irregulary on projects. It is not designed for large companies/teams/product cycles.
+The first purpose of Shadow is to help small teams working irregulary on projects.
 
+## Principles
+
+### Trust
+
+### Transparency
+
+### Decentralization
+
+### Wabi-sabi
