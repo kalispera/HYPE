@@ -14,7 +14,7 @@ Hype is a agile methodology created for
 Problems occure when you work together with other people on side projects. Time is not a given constant. 
 That's why the hype framework doesn't focus on providing maximum value in a give set of time.
 
-Hype focus on providing maximum motivation when investing irregular time.
+Hype focuses on providing maximum motivation when investing irregular time.
 
 
 
