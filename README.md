@@ -1,21 +1,28 @@
-# shadow
-Shadow is a agile process framework for small remote teams with irregular time investement
+# Hype
+Hype is a agile methodology created for
+
+* small remote teams
+* with irregular time investement
+* working in software development
+* without cashflow
 
 
-## Who is shadow for?
+## Intro
 
-The purpose of Shadow is to help small teams working irregulary on projects.
+[The list of agile methodologies is long](http://noop.nl/2008/07/the-definitive-list-of-software-development-methodologies.html). Because common methodologies are created by people working in or for companies, they all assume that time is a given constant. 
+
+Problems occure when you work together with other people on side projects. Time is not a given constant. 
+That's why the hype framework doesn't focus on providing maximum value in a give set of time.
+
+Hype focus on providing maximum motivation when investing irregular time.
+
+
 
 ## Principles
 
-### Trust
-
-If you work remotely with others. You need trust. Like a lot.
-You need to put the trust in them that what they will put into the project is what they think is appropiate. Content and Ideas should be always discussable but trust should be a given fundament everything else builds upon.
-
 ### Transparency
 
-The shadow framework guides for maximal transparency. On one hand that means it's embraced to communicate which feelings you have towards something. Especially if it is fear, anger or a concern. On the other hand you should be able to have a link to anything.
+The hype framework guides for maximal transparency. On one hand that means it's embraced to communicate which feelings you have towards something. Especially if it is fear, anger or a concern. On the other hand you should be able to have a link to anything.
 
 A written down idea, a sketch, a proof of concept. Make sure everything you talk about is reachable as long as it's important.
 
@@ -30,3 +37,17 @@ This is a little pathetic. Wabi Sabi is japanese and stands for acceptenace for 
 ### Patience
 
 When working irregulary on projects with other, you don't know how the team members priotise their time or ressources. Therefore it is crucial to come with a basic patience and give everyone the time to act. 
+
+
+
+## Phases
+
+### Planning
+
+Planning is the time spent on What should be achieved and how.
+
+### Implementation
+
+Implementation is the time spent on actually transferring a plan into something valuable.
+
+
