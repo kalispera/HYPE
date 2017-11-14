@@ -34,6 +34,10 @@ This might sound strange but with irregular time investment it is even more impo
 
 This is a little pathetic. Wabi Sabi is japanese and stands for acceptenace for imperfection. In hype, it is advised to eliminate every doubt, concern, quality aspect you have towards something. Everything is finished even with the smallest improvement.
 
+### Chaos
+
+Because hype embraces that humans are individuals and make mistakes, it leaves room for chaos. Not everything can and not everything should be controlled. 
+
 ### Patience
 
 When working irregulary on projects with other, you don't know how the team members priotise their time or ressources. Therefore it is crucial to come with a basic patience and give everyone the time to act.
