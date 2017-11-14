@@ -40,7 +40,7 @@ When working irregulary on projects with other, you don't know how the team memb
 
 
 
-## Events
+## Hype Events
 
 ### Sync
 
@@ -51,7 +51,6 @@ It is divded in 2 Phases
 
 1. Retro
 
-  * Talk about the achieved deliveries.
   * Have there been tasks, moments or situations where you've experienced demotivation?
   * Are you blocked by a task from someone else?
 
@@ -67,6 +66,17 @@ Implementation happens invididually and each team member can decide on their own
 
 ### Delivery
 
-Delivery is the Situation when a task has been finished and transfered to "done"
+Delivery is the Situation when a task has been finished.
+When a tasks has been "delivered" it should be asynchronously communicated with the team.
+
+## Hype Artifacts
+
+
+### Idea Board
+
+The Idea board is a place where ideas are stored (zing). 
+
+
+
 
 
