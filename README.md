@@ -12,7 +12,7 @@ Hype is a agile framework created for
 [The list of agile methodologies is long](http://noop.nl/2008/07/the-definitive-list-of-software-development-methodologies.html). Because common methodologies and/or frameworks are created by people working in or for companies, they all assume that time is a given constant.
 
 Problems occure when you work together with other people on side projects. Time is not a given constant.
-That's why the hype framework doesn't focus on providing maximum value in a give set of time.
+That's why the hype framework doesn't focus on providing maximum value in a limited amount of time.
 
 **Hype focuses on providing maximum motivation when investing irregular time.**
 
