@@ -9,9 +9,9 @@ Hype is a agile methodology created for
 
 ## Intro
 
-[The list of agile methodologies is long](http://noop.nl/2008/07/the-definitive-list-of-software-development-methodologies.html). Because common methodologies are created by people working in or for companies, they all assume that time is a given constant. 
+[The list of agile methodologies is long](http://noop.nl/2008/07/the-definitive-list-of-software-development-methodologies.html). Because common methodologies are created by people working in or for companies, they all assume that time is a given constant.
 
-Problems occure when you work together with other people on side projects. Time is not a given constant. 
+Problems occure when you work together with other people on side projects. Time is not a given constant.
 That's why the hype framework doesn't focus on providing maximum value in a give set of time.
 
 Hype focuses on providing maximum motivation when investing irregular time.
@@ -32,11 +32,11 @@ This might sound strange but with irregular time investment it is even more impo
 
 ### Wabi-sabi
 
-This is a little pathetic. Wabi Sabi is japanese and stands for acceptenace for imperfection. In hype, it is advised to eliminate every doubt, concern, quality aspect you have towards something. Everything is finished even with the smallest improvement. 
+This is a little pathetic. Wabi Sabi is japanese and stands for acceptenace for imperfection. In hype, it is advised to eliminate every doubt, concern, quality aspect you have towards something. Everything is finished even with the smallest improvement.
 
 ### Patience
 
-When working irregulary on projects with other, you don't know how the team members priotise their time or ressources. Therefore it is crucial to come with a basic patience and give everyone the time to act. 
+When working irregulary on projects with other, you don't know how the team members priotise their time or ressources. Therefore it is crucial to come with a basic patience and give everyone the time to act.
 
 
 
@@ -44,7 +44,7 @@ When working irregulary on projects with other, you don't know how the team memb
 
 ### Sync
 
-Sync is the only event where synchronous communication is needed. 
+Sync is the only event where synchronous communication is needed.
 A sync can be a walk together in the park, a meeting, a video call etc.
 
 It is divded in 2 Phases
@@ -74,9 +74,10 @@ When a tasks has been "delivered" it should be asynchronously communicated with 
 
 ### Idea Board
 
-The Idea board is a place where ideas are stored (zing). 
+The Idea board is a place where ideas are stored (zing).
 
 
 
+## Hype in action
 
-
+![Hype in action](/inaction.png)
