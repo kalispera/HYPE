@@ -32,7 +32,7 @@ This might sound strange but with irregular time investment it is even more impo
 
 ### Wabi-sabi
 
-This is a little pathetic. Wabi Sabi is japanese and stands for acceptenace for imperfection. In shadow, it is advised to eliminate every doubt, concern, quality aspect you have towards something. Everything is finished even with the smallest improvement. 
+This is a little pathetic. Wabi Sabi is japanese and stands for acceptenace for imperfection. In hype, it is advised to eliminate every doubt, concern, quality aspect you have towards something. Everything is finished even with the smallest improvement. 
 
 ### Patience
 
@@ -40,14 +40,33 @@ When working irregulary on projects with other, you don't know how the team memb
 
 
 
-## Phases
+## Events
 
-### Planning
+### Sync
 
-Planning is the time spent on What should be achieved and how.
+Sync is the only event where synchronous communication is needed. 
+A sync can be a walk together in the park, a meeting, a video call etc.
+
+It is divded in 2 Phases
+
+1. Retro
+
+  * Talk about the achieved deliveries.
+  * Have there been tasks, moments or situations where you've experienced demotivation?
+  * Are you blocked by a task from someone else?
+
+2. Planning
+
+  * Look at the initial idea that originally sparked your motivation to even start this. Is it up to date? Is everyone aware of it?
+  * What does everyone wants to do next?
+
 
 ### Implementation
 
-Implementation is the time spent on actually transferring a plan into something valuable.
+Implementation happens invididually and each team member can decide on their own when and how to work on their tasks.
+
+### Delivery
+
+Delivery is the Situation when a task has been finished and transfered to "done"
 
 
