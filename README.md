@@ -1,7 +1,7 @@
 # Hype
 Hype is a agile framework created for
 
-* small remote teams
+* small teams
 * with irregular time investement
 * working in software development
 * without cashflow
