@@ -84,4 +84,4 @@ The Idea board is a place where ideas are stored (zing).
 
 ## Hype in action
 
-![Hype in action](/inaction.png)
+![Hype in action](/inaction.png?cache=1)
