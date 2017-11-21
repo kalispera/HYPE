@@ -1,3 +1,5 @@
+[![Love and Peace](http://love-and-peace.github.io/love-and-peace/badges/base/v1.0.svg)](https://github.com/love-and-peace/love-and-peace/blob/master/versions/base/v1.0/en.md)
+
 # Hype
 Hype is a agile methodology created for
 
