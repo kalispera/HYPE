@@ -1,24 +1,19 @@
 [![Love and Peace](http://love-and-peace.github.io/love-and-peace/badges/base/v1.0.svg)](https://github.com/love-and-peace/love-and-peace/blob/master/versions/base/v1.0/en.md)
 
 # Hype
-Hype is a agile methodology created for
+Hype is a agile project management framework created for
 
-* small remote teams
+* small teams
 * with irregular time investement
-* working in software development
-* without cashflow
-
+* on projects without financial obligations and/or deadlines
 
 ## Intro
 
-[The list of agile methodologies is long](http://noop.nl/2008/07/the-definitive-list-of-software-development-methodologies.html). Because common methodologies are created by people working in or for companies, they all assume that time is a given constant.
+The name Hype refers to the state of mind where you are so motivated to put an idea into reality, you're filled with joy when you only think about starting.
 
-Problems occure when you work together with other people on side projects. Time is not a given constant.
-That's why the hype framework doesn't focus on providing maximum value in a give set of time.
+[Established](http://noop.nl/2008/07/the-definitive-list-of-software-development-methodologies.html) methodologies and/or frameworks assume time is a given constant. On side projects, available time isn't a constant. It's a variable that is different for every team member and is influenced by the motivation you have to work on the project.
 
-Hype focuses on providing maximum motivation when investing irregular time.
-
-
+**That's why hype focuses on providing maximum motivation when investing irregular time.**
 
 ## Principles
 
@@ -34,7 +29,11 @@ This might sound strange but with irregular time investment it is even more impo
 
 ### Wabi-sabi
 
-This is a little pathetic. Wabi Sabi is japanese and stands for acceptenace for imperfection. In hype, it is advised to eliminate every doubt, concern, quality aspect you have towards something. Everything is finished even with the smallest improvement.
+Wabi Sabi is japanese and stands for acceptenace for imperfection. In hype, it is advised to eliminate every doubt, concern, quality aspect you have towards something. Everything is finished even with the smallest improvement.
+
+### Chaos
+
+Because hype embraces that humans are individuals and make mistakes, it leaves room for chaos. Not everything can and not everything should be controlled. 
 
 ### Patience
 
@@ -47,28 +46,22 @@ When working irregulary on projects with other, you don't know how the team memb
 ### Sync
 
 Sync is the only event where synchronous communication is needed.
-A sync can be a walk together in the park, a meeting, a video call etc.
 
-It is divded in 2 Phases
+A sync can be a walk together in the park, a meeting or a video call. Or anything else where a focuses conversation can happen.
 
-1. Retro
+First step of the sync: define the contents of the sync. 
 
-  * Have there been tasks, moments or situations where you've experienced demotivation?
-  * Are you blocked by a task from someone else?
+In general you should decide on you own what it is you want to talk about. Possible questionst to be answered could be:
 
-2. Planning
-
-  * Look at the initial idea that originally sparked your motivation to even start this. Is it up to date? Is everyone aware of it?
-  * What does everyone wants to do next?
-
-
-### Implementation
-
-Implementation happens invididually and each team member can decide on their own when and how to work on their tasks.
+ * Have there been moments or situations where you've experienced demotivation?
+ * Are you blocked by a task from someone else?
+ * Are we still working towards the vision?
+ * Does everyone knows what to do next?
+ * Do you need help?
 
 ### Delivery
 
-Delivery is the Situation when a task has been finished.
+Deliver happens invididually and each team member can decide on their own when and how to work on their tasks.
 When a tasks has been "delivered" it should be asynchronously communicated with the team.
 
 ## Hype Artifacts
@@ -76,10 +69,11 @@ When a tasks has been "delivered" it should be asynchronously communicated with 
 
 ### Idea Board
 
-The Idea board is a place where ideas are stored (zing).
+The Idea board is your place to store ideas and make them visible to your team. 
+It is not a backlog and not a prioritised list of tasks to be achieved. 
 
 
 
 ## Hype in action
 
-![Hype in action](/inaction.png)
+![Hype in action](/inaction.png?cache=1)
